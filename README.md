@@ -19,3 +19,5 @@ The data cleaning process is an essential stage in data analysis that ensures th
 8. **Experimental Data Validation:** The cleaned data can be validated through experiments or testing to ensure that the cleaned data meets expectations.
 
 After going through all these stages, the cleaned data is ready for further analysis. The data cleaning process is a crucial foundation for making accurate decisions and extracting useful insights in various fields, including data science, business, and other scientific disciplines.
+
+Additionally, I have been working on coding exercises where I have utilized functions like third_place, square_root, and distance. In these exercises, I was presented with various scenarios and successfully solved them based on the instructions provided in the accompanying exercise files.
